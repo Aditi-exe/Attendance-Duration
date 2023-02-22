@@ -1,3 +1,3 @@
 # Attendance-Duration
 
-Code for analyzing the attendance in Microsoft Teams meeting.
+Code for analyzing the attendance in a Microsoft Teams meeting.
